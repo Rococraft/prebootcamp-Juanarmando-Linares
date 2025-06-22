@@ -6,11 +6,11 @@ function validateForm() {
 }
 
 // This script sets the styles for various elements in a form
-document.getElementById("ID").style.height = "20px";
-document.getElementById("ID").style.width = "150px";
-document.getElementById("ID").style.backgroundColor = "white";
-document.getElementById("ID").style.border = "2px solid black";
-document.getElementById("ID").style.borderRadius = "10px";
+document.getElementById("Nickname").style.height = "20px";
+document.getElementById("Nickname").style.width = "150px";
+document.getElementById("Nickname").style.backgroundColor = "white";
+document.getElementById("Nickname").style.border = "2px solid black";
+document.getElementById("Nickname").style.borderRadius = "10px";
 
 document.getElementById("email").style.height = "20px";
 document.getElementById("email").style.width = "150px";
